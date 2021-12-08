@@ -1,0 +1,94 @@
+body{ font-family: 'Titillium Web', sans-serif; background-color: #e7e3e0; font-size: larger;
+}.navbar{ background-color: #f6505e; font-weight: bolder;
+
+}
+
+h1#header{
+  font-weight: bolder;
+  padding-bottom: 0.5em;
+}
+
+footer{
+  padding-top: 5em;
+  text-align: center;
+}
+
+.content{ text-align: center; padding-top: 3em;
+}p{
+  max-width: 65%;
+  display: inline-block;
+  padding-bottom: 2em;
+}
+.content-table{
+  text-align: center;
+  display: inline-block;
+  max-width: 65%;
+}
+.content-table-head{
+  text-align: center;
+  display: inline-block;
+  max-width: 65%;
+  font-weight: bolder;
+}
+
+.results{
+  padding: 15px;
+  width: 400px;
+  height: 400px;
+  text-align: center;
+  display: block;
+}
+
+.bmi{
+  padding: 15px;
+  text-align: center;
+  display: block;
+}
+
+form{
+  text-align: center;
+  display: inline-block;
+}
+form h2{
+  display: inline-block;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+form ul{
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  list-style: none;
+  padding-bottom: 1rem;
+}
+
+
+.button{
+  background-color: #f6505e;
+}
+#table{
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #e98c94;
+  color: #fff;
+}
+
+#table .label{
+  width: 75px;
+  background-color: #fe2739;
+  color: #fff;
+  text-align: center;
+
+}
+
+#table .output{
+  padding-left: 5px;
+}
+
+#bmi-result{
+  margin-top: 1em;
+  padding-top: 20px;
+  height: 120px;
+}
