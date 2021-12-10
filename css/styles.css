@@ -65,8 +65,16 @@ form ul{
 
 
 .button{
-  background-color: #f6505e;
+  background-color: #f6505e; 
+  border-radius: 8px;
+  text-decoration: none;
 }
+
+.button:hover {
+  background-color: #e98c94;
+  color: white;
+}
+
 #table{
   text-align: center;
   margin-left: auto;

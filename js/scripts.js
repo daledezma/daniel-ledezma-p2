@@ -59,7 +59,7 @@ function calculateHeight(feet, inches){
 
 function analyzeBMI(BMI){
   var eval;
-  var text = "Your body mass index is" + " " + BMI + "." + "This indicates that you may be" + " "
+  var text = "Your body mass index is" + " " + BMI + "." + " This indicates that you may be" + " "
   if(BMI < 18.5)
   { eval = "underweight";
   }
